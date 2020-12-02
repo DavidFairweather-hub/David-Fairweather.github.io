@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.navbar {
+         overflow:hidden;
+         background-color:rgb(0,59,111);
+         postion:fixed;
+         bottom:0;
+         width:100%;
+         }
+.navbar a {
+        float:left;
+        display:block;
+        color:rgb(256,256,256);
+        text-align: center;
+        padding:14px 16px;
+        text-decoaration:none;
+        font-size:17px;
+        }
+.navbar a:hover {
+             background-color:rgb(0,200,111);
+             color:white;
+             }
+.main {
+       margin:16px;
+       margin-bottom: 30px;
+       }
+       
+a{
+  color:rgb(200,200,200);
+  background-color:rgb(0,0,0);
+  }
+a:hover
+      { 
+        color:rgb(200,200,0);
+      }
+ .thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+} 
+      
+.div1 {
+     
+     float:left;
+     width:100px;
+     height:200px;
+   
+     
+     }
+ .div2 {
+         
+        float:right;
+        width: 100px;
+        height:60px;
+      
+        }
+.div3 {
+        border-radius:25px;
+        float:left;
+        background-color:rgb(256,256,256);
+        width:715px;
+        
+        height:2000px;
+      
+        }
+               
+    body{ 
+         background-color:rgb(0,59,111);
+         } 
+        
+ul{
+     
+     list-style-type:none;
+     margin:10;
+     padding:7;
+   }
+
+div.header
+           { 
+             right:40;
+           }
+h1 {
+    border-radius:15px;
+    background-color:rgb(0,200,111);
+   
+    font-size:40px;
+   
+    }
+    
+    
+h2 {
+     border-radius:10px;
+     background-color:rgb(0,200,111);
+   
+    font-size:20px;
+    }
+h3 {
+     border-radius:5px; 
+     background-color:rgb(0,200,111);
+     font-size:20px;
+     }
+p {
+   
+    color:rgb(200,200,200);
+    margin-left:50px;
+    margin-right:50px;
+    top-margin:100px;
+    display:inline;
+}    
+p2 {
+    
+     margin:0px
+    
+    } 
+p3 {
+     color:rgb(0,9,0);
+     background-color:rgb(256,256,256);
+     }
+    
+</style>
+</head>
+<body>
+
+<h1>David L P Fairweather</h1>
+
+<h3>Into the Cosmos</h3>
+<div class="div1">
+<u1>
+<div class="navbar">
+   <a href="">Introduction</a>
+   <a href="https://wordpress.com/">Electric Universe</a>
+   <a href="">Robitaille aka Sky Scholar</a>
+   <a href="">Flat Earth</a>
+   <a href="">Pictures</a>
+   <a href="">Books</a>
+   <a href="">Podcasts</a>
+   <a href="">Videos</a>
+   <a href="">Movies</a>
+  </div>
+  </u1>
+</div>  
+<div class="div2">
+  <img src="https://imgs.xkcd.com/comics/astrophysics.png" class="thumbnail" width=180px height=90px>
+ 
+<p2> https://imgs.xkcd.com/comics/astrophysics.png</p2> 
+<h2>About</h2> 
+<p3>My interest of course is the search for life elsewhere,  scientific skepticism, computers, gardening, video games and a few other areas. This website will be mostly about these topics.</p3>
+</div>
+<div class="div3">
+
+ <h1>The Wrath Of Khan</h1>
+       <h2>A Study in Exobiology</h2>
+<p3>The Wrath of Khan is probably one of the best if not the best Star Trek movie but I do not want to start a holy war like Coke vs. Pepsi or Mac vs. PC. The reason why this movie is so good because it explores many themes such as revenge, an absentee father being introduced to his son and the question of terraforming a planet for human colonization. The main plot is focused around a device called the Geneses device which changes a planet and creates life within days on any planet.</p3>
+<br/><br/>
+<p3>In the beginning of the movie the have star ship looking for a planet that has no life on it. This brings up an interesting question what is life. Is it something that reproduces like crystals which forms the same pattern over and over, or like fire that consumes material and changes and gives of heat. Does the chemicals that are the precursors to life which have been found the cores of small meteorites.</p3> 
+<br/><br/>
+<p3>Can you point life on any old planet in the universe, or is there certain places where life can survive after it is formed. One thing modern astronomers look for when they are looking for planets is how far away form the star and what type of star it is. If it is around a small cool star, the planets have to be closer to the planet has to be for liquid water to exist which is necessary for life as we know to thrive. If it is a larger hotter star it has to be further away for water not be gas. Also another consideration is the size of the planet. Smaller planets would not have the gravity to hold onto an atmosphere while larger planets like Jupiter sized planets would be mostly atmosphere with a no solid ground for life to live on. There is a chance that  life could exist in the clouds but this just hypothetical at the moment. The larger planets might have moons that might be large enough for life to develop. Other considerations that might affect life is whether or not of the planet is geologically active. Earth is geologically active, materials are moved into the planet at where the seismic plates met and are released by volcanoes. This is important for substances for water and carbon dioxide. Mars on the other hand once was actice and is not any more. Mars does not hold on water or carbon so without active volcanoes has nothing to replace these substances. The moons of Jupiter and Saturn such as Europa, Enceladus and Titan might have what is called cyro-volcanoism which similar but ice replaces rock, This process might be useful in determining what is going under the surface of Europa and Enceladus where life might be. Titan actually has an atmosphere of carbon compounds instead of mostly nitrogen and oxygen here on Earth. 
+Other thing that might affect if there is life on a planet is that if the atmosphere blocks harmful parts of the electromagnetic spectrum. All stars emits light in all wavelengths and depending on the size and temperature of the star. They might emit light might be harmful for life.</p3>
+<br/><br/>
+<p3>Would a device like the geneses device exist in real life, probably not. I better way would be find a planet that match the Earth as much as possible Use things like plants and bacteria to change the atmosphere if need be and change the planet in a gradual way. But with movie you get this.</p3>
+<br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wRnSnfiUI54" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
